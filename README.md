@@ -109,6 +109,7 @@
 *AI vector tools generate icons and scalable graphics from a prompt, or convert raster images into clean, editable vectors.*
 
 - **[Iconscout](https://iconscout.com)** — AI icon and illustration generator layered on a large stock library, with Figma and Sketch plugins. `Freemium`
+- **[IconVectors](https://iconvectors.io/)** — Desktop SVG editor that lets designers edit icons through Claude Desktop via MCP and export PNG assets. `Paid`
 - **[Kittl](https://www.kittl.com)** — Vector design tool with a prompt-to-vector generator, AI vectorizer, and template editor for graphic design. `Freemium`
 - **[Recraft](https://www.recraft.ai/generate/icons)** — Generates vector icons and illustrations from text prompts with brand style and color controls, exportable as SVG. `Freemium`
 - **[SVGMaker](https://svgmaker.io)** — Generates and edits scalable vector graphics from a text prompt, with raster-to-SVG conversion. `Freemium`
