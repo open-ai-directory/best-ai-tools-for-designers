@@ -45,6 +45,7 @@
 
 - **[Banani](https://www.banani.co)** — Turns text prompts into editable UI screens and exports clean HTML/CSS for designers and non-designers. `Freemium`
 - **[Google Stitch](https://stitch.withgoogle.com)** — Gemini-powered tool that turns prompts, sketches, or screenshots into UI screens with Figma and code export. `Free`
+- **[Orkas](https://orkas.ai/use/ui-design/?source=gh_ai_design)** — UIDesigner in the Orkas desktop workspace turns briefs or screenshots into editable HTML interfaces for design review and handoff. `Freemium`
 - **[Uizard](https://uizard.io)** — Turns sketches, screenshots, or text prompts into editable UI mockups and interactive prototypes. `Freemium`
 - **[UX Pilot](https://uxpilot.ai)** — Generates multi-screen UI flows from a text prompt and exports directly to Figma. `Freemium`
 - **[v0](https://v0.app)** — Vercel's AI tool that generates functional React UI components and app scaffolding from prompts. `Freemium`
